@@ -6,3 +6,8 @@ Separate low level data accessing API or operations from high level business ser
 ![image](https://github.com/user-attachments/assets/8c7a0e6d-1ebe-456d-9428-77b258b3f7dc)
 
 Simple, it is a way to abstract the operations of an object, and another Dao implementation is going to work directly with the database
+
+Very important, trying to deacoplate everything, change repetitive code for generic interfaces which every implementation will implement, etc. 
+
+![image](https://github.com/user-attachments/assets/ea25b5cf-a380-4c10-b6ca-6ab3746494e9)
+
